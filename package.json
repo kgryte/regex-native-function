@@ -1,6 +1,6 @@
 {
   "name": "regex-native-function",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Regular expression to detect a native function.",
   "author": {
     "name": "Athan Reines",
@@ -23,14 +23,14 @@
     "url": "git://github.com/kgryte/regex-native-function.git"
   },
   "keywords": [
-		"regex",
-		"regexp",
-		"regular",
-		"expression",
-		"native",
-		"function",
-		"native-function"
-	],
+    "regex",
+    "regexp",
+    "regular",
+    "expression",
+    "native",
+    "function",
+    "native-function"
+  ],
   "bugs": {
     "url": "https://github.com/kgryte/regex-native-function/issues"
   },
